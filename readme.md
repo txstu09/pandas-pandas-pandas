@@ -21,87 +21,9 @@ record2 = pd.read_json(purchase_file_2, orient='records')
 #Concatenate purchase records
 
 purchase_record = pd.concat([record1, record2])
-purchase_record.head()
 ```
 
 
-
-
-<div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Age</th>
-      <th>Gender</th>
-      <th>Item ID</th>
-      <th>Item Name</th>
-      <th>Price</th>
-      <th>SN</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>38</td>
-      <td>Male</td>
-      <td>165</td>
-      <td>Bone Crushing Silver Skewer</td>
-      <td>3.37</td>
-      <td>Aelalis34</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>21</td>
-      <td>Male</td>
-      <td>119</td>
-      <td>Stormbringer, Dark Blade of Ending Misery</td>
-      <td>2.32</td>
-      <td>Eolo46</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>34</td>
-      <td>Male</td>
-      <td>174</td>
-      <td>Primitive Blade</td>
-      <td>2.46</td>
-      <td>Assastnya25</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>21</td>
-      <td>Male</td>
-      <td>92</td>
-      <td>Final Critic</td>
-      <td>1.36</td>
-      <td>Pheusrical25</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>23</td>
-      <td>Male</td>
-      <td>63</td>
-      <td>Stormfury Mace</td>
-      <td>1.27</td>
-      <td>Aela59</td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 
 
