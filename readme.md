@@ -1,4 +1,4 @@
-## Heroes of Pymoli
+# Heroes of Pymoli
 
 * Observed trend 1
 * Observed trend 2
@@ -105,7 +105,7 @@ purchase_record.head()
 
 
 
-# Player Count
+## Player Count
 ```python
 #Total number of players
 
@@ -151,7 +151,7 @@ total_players_table
 
 
 
-# Purchasing Analysis (Total)
+## Purchasing Analysis (Total)
 ```python
 #Purchasing Analysis (Total)
 
@@ -195,7 +195,7 @@ total_analysis_table
 
 
 
-# Gender Demographics
+## Gender Demographics
 ```python
 #Gender Demographics
 
@@ -269,7 +269,7 @@ gender_demo_table
 
 
 
-# Purchasing Analysis (Gender)
+## Purchasing Analysis (Gender)
 ```python
 #Purchasing Analysis (Gender)
 
@@ -344,7 +344,7 @@ gender_analysis_table
 
 
 
-# Age Demographics
+## Age Demographics
 ```python
 #Age Demographics
 
@@ -439,7 +439,7 @@ age_demo_table
 
 
 
-# Purchasing Analysis (Age)
+## Purchasing Analysis (Age)
 ```python
 #Purchase Analysis (Age)
 
@@ -534,7 +534,7 @@ age_analysis_table
 
 
 
-# Top Spenders
+## Top Spenders
 ```python
 #Top Spenders
 
@@ -596,7 +596,7 @@ top_spenders
 
 
 
-# Most Popular Items
+## Most Popular Items
 ```python
 #Most Popular Items
 
@@ -665,7 +665,7 @@ popular_items
 
 
 
-# Most Profitable Items
+## Most Profitable Items
 ```python
 #Most Profitable Items
 
