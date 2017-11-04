@@ -1,6 +1,6 @@
 # Heroes of Pymoli
 
-* Heroes of Pymoli are predominantly male and spend more per item than female counterparts.
+* Heroes of Pymoli players are predominantly male and spend more per item than female counterparts.
 * Player age appears to have a normal distribution with the central value falling into the 20-24 age range.
 * The top 5 most popular items account for just 5.9% of item purchases and 5.0% of revenue.  Additionally, the top 5 most profitable items account for just 5.0% of item purchases and 6.3% of revenue.  This indicates that item popularity and profitability are not dependent on a small few items being successful, but instead distrubuted across a wider range of items.
 
